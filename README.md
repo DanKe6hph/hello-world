@@ -1,0 +1,2 @@
+# hello-world
+HI just Starting out. i am retired and i'm trying to learn html, css, python and java script. Wow there is so much to learn. but i am going too give it a try. What i would like to create something useful for Amateur Radio use. I have these 2 routers that i have converted to work on the 2.4 GHz ham band. i would like to create a video chat communicator that will run on 2 Raspberry pi2 boards and along with the 2 routers will work be working  peer to peer with each other.
